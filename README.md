@@ -6,4 +6,4 @@ Here some changes on MASTER directly. How will they be handled?
 
 Here are some edits offline.
 
-These edits are to be merged directly with master.
+These edits are to be merged directly with master - what about conflicting edits?
